@@ -2,7 +2,7 @@
 
 OVERVIEW
 --------------------------------------------------
-The purpose of this project was to implement and test a Regular Grammar Language based on the C language through Automata for the [Formal Language Theory] course. It was made at the Computer Science undergraduate program from University of São Paulo (ICMC - USP).
+The purpose of this project was to implement and test a Regular Grammar Language based on C language through Automata for the [Formal Language Theory] course. It was made at the Computer Science undergraduate program from University of São Paulo (ICMC - USP).
 
 WHAT IS A REGULAR GRAMMAR LANGUAGE?
 --------------------------------------------------
