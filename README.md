@@ -43,6 +43,7 @@ AUTOMATA
 LANGUAGE TEST
 --------------------------------------------------
 The Grammar was tested using JFLAP application (All files can be found inside the `JFLAP files` folder).
+
 ![Screenshot 2](img/img2.png)
 
 
