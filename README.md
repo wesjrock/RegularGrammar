@@ -19,7 +19,7 @@ With the grammar below, it is possible to detect:
 
 ```bash
 G​ ​=​ ​({A,​ ​S,​ ​I,​ ​E,​ ​H,​ ​D,​ ​B,​ ​L,​ ​C,​ ​G,​ ​K,​ ​F,​ ​J},​ ​{A-Z,​ ​a-z,​ ​0-9,​ special,​ ​_},​ ​P,​ ​S)
-special ​=​ ​special characters which are permited in the C language,
+special ​=​ ​special characters which are permitted in the C language,
 ​ ​Example:​ ​(​ ​=,​ ​==,​ ​<,​ ​>, <=,​ ​>=,​ ​!=,​ ​&&,​ ​||,​ ​*=,​ ​+=,​ ​-=,​ ​/=,​ ​%=,​ ​etc).
 ```
 
