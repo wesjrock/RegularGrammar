@@ -10,7 +10,12 @@ In theoretical computer science and formal language theory, a regular language i
 
 GRAMMAR
 --------------------------------------------------
-With the grammar below, it is possible to detect Identifiers, Integers (signed and unsigned), Float (signed and unsigned) and special characters.
+With the grammar below, it is possible to detect:
+
+* Identifiers
+* Integers (signed and unsigned)
+* Float (signed and unsigned) 
+* Special characters
 
 ```bash
 G​ ​=​ ​({A,​ ​S,​ ​I,​ ​E,​ ​H,​ ​D,​ ​B,​ ​L,​ ​C,​ ​G,​ ​K,​ ​F,​ ​J},​ ​{A-Z,​ ​a-z,​ ​0-9,​ special,​ ​_},​ ​P,​ ​S)
