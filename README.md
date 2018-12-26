@@ -14,7 +14,8 @@ With the grammar below, it is possible to detect Identifiers, Integers (signed a
 
 ```bash
 G​ ​=​ ​({A,​ ​S,​ ​I,​ ​E,​ ​H,​ ​D,​ ​B,​ ​L,​ ​C,​ ​G,​ ​K,​ ​F,​ ​J},​ ​{A-Z,​ ​a-z,​ ​0-9,​ special,​ ​_},​ ​P,​ ​S)
-special ​=​ ​special characters which are permited in the C language,​ ​Exemplo:​ ​(​ ​=,​ ​==,​ ​<,​ ​>, <=,​ ​>=,​ ​!=,​ ​&&,​ ​||,​ ​*=,​ ​+=,​ ​-=,​ ​/=,​ ​%=,​ ​etc).
+special ​=​ ​special characters which are permited in the C language,
+​ ​Example:​ ​(​ ​=,​ ​==,​ ​<,​ ​>, <=,​ ​>=,​ ​!=,​ ​&&,​ ​||,​ ​*=,​ ​+=,​ ​-=,​ ​/=,​ ​%=,​ ​etc).
 ```
 
 PRODUCTION RULES
