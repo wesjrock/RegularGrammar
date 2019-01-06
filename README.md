@@ -52,6 +52,11 @@ The Grammar was tested using JFLAP application (All files can be found inside th
 
 ![Screenshot 2](img/img2.png)
 
+CREDITS
+--------------------------------------------------
+- Luiz Eduardo Dorici
+- Werik Fachim
+- Wesley Tiozzo
 
 MORE INFO
 --------------------------------------------------
